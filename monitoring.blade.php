@@ -35,7 +35,7 @@
                                     placeholder="Cari...">
                             </fieldset>
                         </div>
-                        <div class="col-md-1 mb-4">
+                        <div class="col-md-1 mb-4 ms-auto">
                             <fieldset class="form-group">
                                 <select class="form-select" style="border-radius: 10px;" id="basicSelect">
                                     <option>IT</option>
